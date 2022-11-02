@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanjayMani
-- 👀 I’m interested in Developing my skills .
+- 👀 I’m interested in Interesting Projects & Developing my skills .
 - 🌱 I’m currently learning Core Java
 - 💞️ I’m looking to collaborate on App Dev
 - 📫 How to reach me sanjaymani2111@gmail.com
